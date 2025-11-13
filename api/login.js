@@ -12,11 +12,10 @@ function hashString(str) {
 // IMPORTANTE: Nunca exponha os códigos originais!
 const PARTICIPANTES_HASH = {
   "Felipe": "e0bebd22819993425814866b62701e2919ea26f1370499c1037b53b9d49c2c8a",  // ABC123
-  "João": "3cf48d9dfb6af91ee1e91b2ec0ba924b1a8b85d2d2b8e3b4c8c5e3b0f6e3a2d1",    // XYZ789
-  "Maria": "7b52009b64fd0a2a49e6d8a939753077792b0554",                          // QWE456
-  "Pedro": "8843d7f92416211de9ebb963ff4ce28125932878",                          // ASD321
-  "henrique.lovison": "c03e537aa5f6132cf542af3689225ef9a6331753a2a19e70689d9715cb7d964a", // soutricolor
-  // Adicione mais participantes aqui
+  "João": "b5e1bc391d22e5a9a579f8cf93c9ad5f8bec1a26b5a3f6376d7d84729ee5ae33",  // XYZ789
+  "Maria": "98af8313056e4f8723012924a8b0d3ebeaa93d433127a3dd718cebd44ee61171",  // QWE456
+  "Pedro": "9058a3f82d51b846c33711a39fa2f3f8b4912892836dddb7fb6d63171c032a28",  // ASD321
+  "felipe_silva": "a4f817df4b1da736aedd02b054465540f4f08001428bfa498a0acab082cfaf58",  // flamengo2025
 };
 
 module.exports = async (req, res) => {
