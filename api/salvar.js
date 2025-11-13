@@ -3,8 +3,8 @@
 
 // Rate limiting simples em memória
 const requestCounts = new Map();
-const RATE_LIMIT = 10; // máximo de requisições
-const RATE_WINDOW = 60 * 60 * 1000; // 1 hora em ms
+const RATE_LIMIT = 100; // máximo de requisições
+const RATE_WINDOW = 2 * 60 * 60 * 1000; // 1 hora em ms
 
 function getRateLimitKey(ip) {
   return `${ip}-${Date.now() - (Date.now() % RATE_WINDOW)}`;
