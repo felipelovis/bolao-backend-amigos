@@ -1,8 +1,5 @@
 {
   "version": 2,
-  "env": {
-    "APPS_SCRIPT_URL": "@apps-script-url"
-  },
   "builds": [
     {
       "src": "api/**/*.js",
