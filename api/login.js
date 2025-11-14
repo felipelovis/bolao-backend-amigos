@@ -22,6 +22,8 @@ const PARTICIPANTES_HASH = {
   "vinicius": "b7b5c8e7d6fd4ac8b4155fdfaaf49ef7ecb895d2a63886956ceaa4dfcecdf135",
   "felipedarafaela": "02d0016e52939f5172f1627a47a4ccaeddcdc3656e11f58c48aa24b0902ffdcc",
   "marcos vinicius": "5bdb2d467d65c00a22c2931b511aec7f55066fba6dce3e54d997caabf686cc4e",
+  "murilovasconcelos": "2c53a252c7d7ea5d2f3187b3da3af9613b5984e8e3906e04778307e75d32fe54",
+  
   
 };
 
