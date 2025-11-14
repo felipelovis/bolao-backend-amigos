@@ -21,6 +21,8 @@ const PARTICIPANTES_HASH = {
   "bruno santos": "b8ac46d9e6ab07fc97028cec7a7a68b9ac22abd752f8fa0687956e0d8816fbe5",
   "vinicius": "b7b5c8e7d6fd4ac8b4155fdfaaf49ef7ecb895d2a63886956ceaa4dfcecdf135",
   "felipedarafaela": "02d0016e52939f5172f1627a47a4ccaeddcdc3656e11f58c48aa24b0902ffdcc",
+  "marcos vinicius": "5bdb2d467d65c00a22c2931b511aec7f55066fba6dce3e54d997caabf686cc4e",
+  
 };
 
 module.exports = async (req, res) => {
