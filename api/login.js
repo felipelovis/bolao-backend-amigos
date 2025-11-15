@@ -12,6 +12,7 @@ function hashString(str) {
 // IMPORTANTE: Nunca exponha os códigos originais!
 const PARTICIPANTES_HASH = {
   "Felipe": "e0bebd22819993425814866b62701e2919ea26f1370499c1037b53b9d49c2c8a",
+  "henriquelovison": "27a9f593af9ca21f05c19e93bd2cff0bf6317afe0a44f5e638192e8ab1ff7540",
   
   
 };
